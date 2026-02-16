@@ -8,14 +8,14 @@ LLMs can generate diverse, persona-specific ad hooks at scale, increasing testin
 
 ## Approach
 - Input: Target persona
-- Output: 20 categorized ad hooks
+- Output: 20 categorised ad hooks
 - Designed for rapid paid testing
 
 ## Why This Matters for AI Consumer Apps
 AI-native marketing should:
 - Automate ideation
 - Increase iteration speed
-- Personalize messaging by persona
+- Personalise messaging by persona
 
 ## Next Iteration
 - Connect to ad platform APIs
